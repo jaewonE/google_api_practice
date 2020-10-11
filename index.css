@@ -1,0 +1,9 @@
+.form,
+.greetings {
+  display: none;
+}
+/*안보이는 것을 기본으로 한다.*/
+
+.showing {
+  display: block;
+}/*javascript로 showing class를 선택하였을 때 보이게 한다.*/
